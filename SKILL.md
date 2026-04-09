@@ -1,5 +1,5 @@
 ---
-name: dhis2-capture-plugin
+name: dhis2-capture-field-plugin
 description: >
   Build DHIS2 Capture field form plugins following the official reference implementation
   structure. Use when the user asks to create DHIS2 Tracker plugins, Capture plugins,
